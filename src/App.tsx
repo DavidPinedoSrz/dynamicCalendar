@@ -54,10 +54,10 @@ const App: React.FC = () => {
       <footer className="attribution">
        <p>Versioned to Typescript and React by David Pinedo Srz.</p>
         <div className="social-links">
-          <a href="https://www.linkedin.com/in/tu-perfil-linkedin" target="_blank" rel="noopener noreferrer">
+          <a href="https://linkedin.com/in/luis-david-pinedo-suárez-8832a5298" target="_blank" rel="noopener noreferrer">
             <img src="../images/linkedin-logo.png" alt="LinkedIn" width="100" height="100" />
           </a>
-          <a href="https://github.com/tu-perfil-github" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/DavidPinedoSrz" target="_blank" rel="noopener noreferrer">
             <img src="../images/github-logo.png" alt="GitHub" width="100" height="100" />
           </a>
         </div>
